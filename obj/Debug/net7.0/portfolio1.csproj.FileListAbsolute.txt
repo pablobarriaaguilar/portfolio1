@@ -23,3 +23,6 @@ C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiemb
 C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\obj\Debug\net7.0\portfolio1.pdb
 C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\obj\Debug\net7.0\portfolio1.genruntimeconfig.cache
 C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\obj\Debug\net7.0\ref\portfolio1.dll
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\obj\Debug\net7.0\portfolio1.RazorAssemblyInfo.cache
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\obj\Debug\net7.0\portfolio1.RazorAssemblyInfo.cs
+C:\Users\pablo\Desktop\bootcamp coding dojo\Fundamentos-de-la-web-SONDA-Semtiembre-2023\Semana 6\Día 4\portfolio1\bin\Debug\net7.0\portfolio1.staticwebassets.runtime.json

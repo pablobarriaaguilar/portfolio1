@@ -4,27 +4,28 @@ using Microsoft.AspNetCore.Mvc;
 namespace Portfolio1.Controllers;   
 public class PortfolioController : Controller   // Remember inheritance?    
 {      
+   
+
     [HttpGet] // We will go over this in more detail on the next page    
     [Route("")] // We will go over this in more detail on the next page
-    public string Index()        
+    public ViewResult Index()        
     {            
-    	return "This is my Index!";        
-    }    
-
-
+    	return View("Index");        
+    } 
+    
     [HttpGet]
-    [Route("/projects")]
+    [Route("/proyectos")]
 
-    public string Projects(){
-        return "These are my projects";
+    public ViewResult Proyectos(){
+        return View("Proyectos");
     }
 
 
     [HttpGet]
-    [Route("/contact")]
+    [Route("/contacto")]
 
-    public string Contact(){
-        return "This is my contact!";
+    public ViewResult Contacto(){
+       return View("Contacto");
     }
 }
 

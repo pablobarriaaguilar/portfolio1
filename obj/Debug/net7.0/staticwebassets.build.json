@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "32tZ0Am3yXc+wAuLSD3i09nFsOA26ykRrGTjo2R3rds=",
+  "Hash": "pc0uMjlb+BewuaWK3XaQR0D1CjHJgZLn05eruk/kPNc=",
   "Source": "portfolio1",
   "BasePath": "_content/portfolio1",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "portfolio1\\wwwroot",
+      "Source": "portfolio1",
+      "ContentRoot": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\css\\styles.css",
+      "SourceId": "portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
 }
