@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pc0uMjlb+BewuaWK3XaQR0D1CjHJgZLn05eruk/kPNc=",
+  "Hash": "ieUWUbIT0LtuSh1IaGaHtp0n+XGM1ktqRyMhGkDhcP8=",
   "Source": "portfolio1",
   "BasePath": "_content/portfolio1",
   "Mode": "Default",
@@ -32,6 +32,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\imagenes\\perfil.jpg",
+      "SourceId": "portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "RelativePath": "imagenes/perfil.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\perfil.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\imagenes\\proyecto1.png",
+      "SourceId": "portfolio1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pablo\\Desktop\\bootcamp coding dojo\\Fundamentos-de-la-web-SONDA-Semtiembre-2023\\Semana 6\\Día 4\\portfolio1\\wwwroot\\",
+      "BasePath": "_content/portfolio1",
+      "RelativePath": "imagenes/proyecto1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\proyecto1.png"
     }
   ]
 }

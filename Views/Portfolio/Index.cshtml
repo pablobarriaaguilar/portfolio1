@@ -8,14 +8,37 @@
     
 </head>
 <body>
-    <h1>hola!</h1>
-
-    @{
-        List <string> StringList = new List<string>(){"one","two","three"};
-        
-        @foreach(string palabra in StringList){
-            <li>@palabra</li>
-        }
-    }
+<div class="navbar">
+    <div class="elementos">
+        <a href="http://">Home</a>
+        <a href="proyectos">Proyectos</a>
+        <a href="http://">Contacto</a>
+    </div>
+</div>
+<div class="contenedorprincipal">
+<div class="contenedorperfil">
+    <div class="titulo"><h1>Sobre Mi</h1></div>
+    <div class="cuerpo">
+        <div class="perfil">
+            <div class="imagen">
+                <img src="~/imagenes/perfil.jpg"/>
+            </div>
+            <div class="textoperfil">
+                <h3>Pablo Barría</h3>
+                <h3>Programador C# .netcore!</h3>
+                
+                
+            </div>
+        </div>
+        <div class="descripcion">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        </div>
+    </div>
+</div>
+</div>
+    
 </body>
 </html>
